@@ -1,4 +1,4 @@
-# Demonstrates how GenAI parameters like Temperature, top-K top-P work
+# Demonstrates how GenAI parameters like Temperature, top-K and top-P work
 
 The code to generate the images is in [visualize_parameters.ipynb](./visualize_parameters.ipynb)
 
