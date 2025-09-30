@@ -1,6 +1,6 @@
 # Demonstrates how GenAI parameters like Temperature, top-K and top-P work
 
-The code to generate the images is in [visualize_parameters.ipynb](./visualize_parameters.ipynb)
+The code to generate the graphs is in [visualize_parameters.ipynb](./visualize_parameters.ipynb)
 
 ## Temperature
 
